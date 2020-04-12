@@ -54,7 +54,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>edu.nwmissouri.isl.professorcase.kafka.CustomProducer</mainClass>
+              <mainClass>edu.nwmissouri.isl.santhosh.kafka.CustomProducer</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
